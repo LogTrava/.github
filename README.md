@@ -2,11 +2,11 @@
   <img src="assets/Logo.png" alt="LogTrava Logo">
 </p>
 
-# LogTrava
+<h1 align="center">LogTrava</h1>
 
 ---
 
-### Adaptive route optimization for high-stakes energy logistics.
+<p align="center"><em>Adaptive route optimization for high-stakes energy logistics.</em></p>
 
 <p align="center">
   <a href="https://logtrava.com"><img src="https://img.shields.io/badge/TRY%20LOGTRAVA-grey?style=for-the-badge" alt="Try LogTrava"></a>
