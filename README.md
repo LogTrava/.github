@@ -57,9 +57,18 @@ LogTrava standardizes route planning through adaptive learning, turning a rigid 
 
 ## Summary
 
-<p align="center">
-  <a href="assets/LogTrava_SummaryVideo.mp4">Watch the Summary Video</a>
-</p>
+### Video Showcase
+
+<div align="center">
+  <video src="" controls width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"></video>
+  <p><em>Interactive demo -- watch how LogTrava optimizes energy logistics routes with adaptive learning and real-time fleet visibility.</em></p>
+</div>
+
+### Feature Highlights
+
+<div align="center">
+  <video src="assets/LogTrava_SummaryVideo.mp4" autoplay muted loop playsinline width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"></video>
+</div>
 
 ## Dashboard
 
