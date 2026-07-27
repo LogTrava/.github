@@ -1,4 +1,6 @@
-![LogTrava Logo](assets/Logo.png)
+<p align="center">
+  <img src="assets/Logo.png" alt="LogTrava Logo">
+</p>
 
 # LogTrava
 
@@ -8,7 +10,7 @@ LogTrava is a sophisticated route optimizer engineered specifically for high-sta
 
 ## Summary
 
-[Watch the full demo](assets/LogTrava_SummaryVideo.mp4)
+<video src="assets/LogTrava_SummaryVideo.mp4" controls width="100%"></video>
 
 ## Dashboard
 
