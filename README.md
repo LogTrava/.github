@@ -4,7 +4,23 @@
 
 # LogTrava
 
-*Adaptive route optimization for high-stakes energy logistics.*
+---
+
+### Adaptive route optimization for high-stakes energy logistics.
+
+<p align="center">
+  <a href="https://logtrava.com"><img src="https://img.shields.io/badge/TRY%20LOGTRAVA-grey?style=for-the-badge" alt="Try LogTrava"></a>
+  <a href="https://logtrava.com"><img src="https://img.shields.io/badge/LOGTRAVA.COM-blue?style=for-the-badge" alt="logtrava.com"></a>
+  <a href="https://status.logtrava.com"><img src="https://img.shields.io/badge/SERVICE%20STATUS-grey?style=for-the-badge" alt="Service Status"></a>
+  <a href="https://status.logtrava.com"><img src="https://img.shields.io/badge/STATUS.LOGTRAVA.COM-green?style=for-the-badge" alt="status.logtrava.com"></a>
+</p>
+
+<p align="center">
+  <a href="mailto:contact@logtrava.com"><img src="https://img.shields.io/badge/@%20CONTACT-grey?style=for-the-badge" alt="Contact"></a>
+  <a href="mailto:contact@logtrava.com"><img src="https://img.shields.io/badge/CONTACT@LOGTRAVA.COM-red?style=for-the-badge" alt="contact@logtrava.com"></a>
+</p>
+
+---
 
 [![Watch the video](https://img.youtube.com/vi/WDCmJOYYx_c/maxresdefault.jpg)](https://www.youtube.com/watch?v=WDCmJOYYx_c)
 
@@ -61,4 +77,8 @@ SaaS subscription with tiered pricing based on fleet size and feature needs.
 
 ## Contact
 
-For inquiries, partnerships, or demo requests, reach out to us at **contact@logtrava.com** or visit our website at **www.logtrava.com**.
+For inquiries, partnerships, or demo requests:
+
+- **Email:** contact@logtrava.com
+- **Website:** [www.logtrava.com](https://logtrava.com)
+- **Service Status:** [status.logtrava.com](https://status.logtrava.com)
