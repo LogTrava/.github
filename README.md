@@ -41,7 +41,9 @@ LogTrava standardizes route planning through adaptive learning, turning a rigid 
 
 ## Summary
 
-[![Watch the summary video](assets/Logo.png)](assets/LogTrava_SummaryVideo.mp4)
+<p align="center">
+  <a href="assets/LogTrava_SummaryVideo.mp4">Watch the Summary Video</a>
+</p>
 
 ## Dashboard
 
