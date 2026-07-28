@@ -87,5 +87,5 @@ SaaS subscription with tiered pricing based on fleet size and feature needs.
 For inquiries, partnerships, or demo requests:
 
 - **Email:** contact@logtrava.com
-- **Website:** [www.logtrava.com](https://logtrava.com)
+- **Website:** [https://logtrava.com/](https://logtrava.com/)
 - **Service Status:** [status.logtrava.com](https://status.logtrava.com)
